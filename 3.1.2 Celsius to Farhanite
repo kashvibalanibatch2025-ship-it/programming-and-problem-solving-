@@ -1,0 +1,4 @@
+import math
+celsius = float(input())
+Fahrehenit = celsius*(9/5)+32
+print(f"{Fahrehenit:.2f}")
